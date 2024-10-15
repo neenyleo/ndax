@@ -10,6 +10,7 @@
     <meta name="googlebot" content="noindex, nofollow" />
     <meta name="bingbot" content="noindex, nofollow" />
     <link rel="icon" href="" sizes="32x32">
+
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.jpg">
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
